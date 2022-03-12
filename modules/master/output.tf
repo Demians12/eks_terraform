@@ -5,3 +5,4 @@ output "eks_cluster" {
 output "security_group" {
     value = aws_security_group.cluster_master_sg
 }
+
