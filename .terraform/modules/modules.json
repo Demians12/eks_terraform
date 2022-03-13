@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"network","Source":"./modules/network","Dir":"modules/network"},{"Key":"master","Source":"./modules/master","Dir":"modules/master"}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"node","Source":"./modules/nodes","Dir":"modules/nodes"},{"Key":"nodes","Source":"./modules/nodes","Dir":"modules/nodes"},{"Key":"network","Source":"./modules/network","Dir":"modules/network"},{"Key":"master","Source":"./modules/master","Dir":"modules/master"}]}
